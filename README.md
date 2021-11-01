@@ -1,3 +1,3 @@
 # an-example-2
 this is Anthony. Welcome to my repository
-hi there
+I only eat shredded wheat
